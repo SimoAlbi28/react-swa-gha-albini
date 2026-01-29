@@ -29,7 +29,7 @@ export default function App() {
   return (
     <div className="container">
       <header className="header">
-        <h1>Mini Event Board</h1>
+        <h1>{import.meta.env.VITE_PROJECT_NAME}</h1>
         <p className="subtitle">
           React + Vite + TypeScript → Deploy su Azure Static Web Apps
         </p>
