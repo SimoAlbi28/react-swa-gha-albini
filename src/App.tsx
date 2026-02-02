@@ -31,7 +31,7 @@ export default function App() {
       <header className="header">
         <h1>{import.meta.env.VITE_PROJECT_NAME}</h1>
         <p className="subtitle">
-          React + Vite + TypeScript → Deploy su Azure Static Web Apps
+          React + Vite + TypeScript → Deploy su Azure Static Web App
         </p>
 
         <div className="toolbar">
